@@ -1,0 +1,23 @@
+{
+  "name": "hapiconfig",
+  "version": "0.0.1",
+  "description": "A wrapper for getconfig to be used as a hapi plugin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nlf/hapiconfig.git"
+  },
+  "keywords": [
+    "hapi",
+    "getconfig",
+    "config"
+  ],
+  "author": "Nathan LaFreniere <quitlahok@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nlf/hapiconfig/issues"
+  },
+  "dependencies": {
+    "getconfig": "0.0.5"
+  }
+}
